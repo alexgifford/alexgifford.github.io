@@ -5,7 +5,9 @@ You can use the [editor on GitHub](https://github.com/alexgifford/alexgifford.gi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [link to portfolio](
-        alexgifford.github.io/index.html
+        
+        alexgifford.github.io/Moneyball_Project.html
+      
       )
 
 ### Markdown
